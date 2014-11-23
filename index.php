@@ -1,7 +1,10 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: ramon
- * Date: 23/11/14
- * Time: 19:22
- */ 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>2. Periood</title>
+    <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+</head>
+<body>
+
+</body>
+</html>
